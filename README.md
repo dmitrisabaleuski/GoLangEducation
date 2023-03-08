@@ -1,2 +1,2 @@
-# GoLangEducationj
+# GoLangEducation
 Golang Self Education
